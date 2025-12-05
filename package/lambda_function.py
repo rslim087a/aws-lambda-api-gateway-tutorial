@@ -1,4 +1,4 @@
-iimport json
+import json
 import base64
 import qrcode
 from io import BytesIO
